@@ -9,6 +9,9 @@ This assignment consists of **two main parts** focused on working with **tabular
 - 📓 **Jupyter Notebook** — workflow & experiments  
 
 ---
+## 💻 Notebook
+The full solution is provided as a **Jupyter Notebook**: [Open Notebook](./homework_practice_01_pandas.ipynb)
+
 
 ## 📚 Tasks  
 1. **Tabular data processing using `pandas`**  
